@@ -1,12 +1,12 @@
 {
   "name": "api",
   "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
+  "description": "Backend for Driving SChool API",
+  "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
-  "author": "",
+  "author": "Pam Ngenzi",
   "license": "ISC"
 }
